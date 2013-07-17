@@ -1,0 +1,7 @@
+{
+  "name": "iscroll-sticky",
+  "version": "0.1.0",
+  "dependencies": {
+    "iscroll": "~5.0.4"
+  }
+}
