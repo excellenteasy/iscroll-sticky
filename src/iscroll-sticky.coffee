@@ -25,6 +25,8 @@ window.IScrollSticky = class IScrollSticky
       @refresh()
     @iscroll.on 'scroll', =>
       @translate()
+    @iscroll.on 'scrollEnd' =>
+      @translate();
 
     @iscroll.refresh()
 
