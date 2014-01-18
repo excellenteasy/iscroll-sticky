@@ -1,7 +1,7 @@
 {
   "name": "iscroll-sticky",
   "description": "iOS-style sticky headers with iScroll 5",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/excellenteasy/iscroll-sticky",
   "author": "excellenteasy <dev@excellenteasy.com>",
   "contributors": [
