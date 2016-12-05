@@ -31,15 +31,15 @@
     "grunt": "~0.4"
   },
   "devDependencies": {
-    "grunt": "~0.4",
-    "grunt-coffeelint": "0.0.7",
-    "grunt-contrib-clean": "~0.4.1",
-    "grunt-contrib-coffee": "0.7.0",
-    "grunt-contrib-watch": "0.2.0",
-    "grunt-shell": "~0.3.0",
-    "matchdep": "~0.1.2",
+    "grunt": "~1.0.1",
+    "grunt-coffeelint": "0.0.16",
+    "grunt-contrib-clean": "~1.0.0",
+    "grunt-contrib-coffee": "1.0.0",
+    "grunt-contrib-watch": "1.0.0",
+    "grunt-shell": "~2.1.0",
+    "matchdep": "~1.0.1",
     "semver-sync": "~1.2.0",
-    "grunt-bower-task": "0.2.3",
+    "grunt-bower-task": "0.4.0",
     "grunt-conventional-changelog": "git://github.com/btford/grunt-conventional-changelog.git#aa77460"
   },
   "keywords": [
